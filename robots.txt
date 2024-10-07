@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rodiecto.github.io/sitemap.html.gz
+Sitemap: https://rodiecto.github.io/app/sitemap.html.gz
+Sitemap: https://rodiecto.github.io/assets/sitemap.html.gz
+Sitemap: https://rodiecto.github.io/css/sitemap.html.gz
+Sitemap: https://rodiecto.github.io/data/sitemap.html.gz
+Sitemap: https://rodiecto.github.io/includes/sitemap.html.gz
+Sitemap: https://rodiecto.github.io/item/sitemap.html.gz
+Sitemap: https://rodiecto.github.io/src/sitemap.html.gz
